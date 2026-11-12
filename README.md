@@ -22,7 +22,7 @@
 
 ![Cisco IOS](https://img.shields.io/badge/Cisco%20IOS-VLAN%20%7C%20OSPF%20%7C%20ACL-1BA0D7) ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-DNS%20%7C%20DHCP%20%7C%20VPN-555) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows%20%2F%20AD%20%2F%20M365-0078D6) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33) ![SQL](https://img.shields.io/badge/SQL-336791) ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?logo=html5&logoColor=white)
 
-## 🚀 Projects
+## 📌 Pinned projects
 
 | | Repository | What it is |
 |---|---|---|
@@ -36,6 +36,19 @@
 | <img src="docs/screenshots/lucian-ceusan-site.webp" width="160" alt="Portfolio"> | [**lucian-ceusan-site**](https://github.com/LucianCeusanRo/lucian-ceusan-site) | Source of my bilingual portfolio site (static HTML/CSS/JS) |
 
 Every repository has a bilingual README (English + Romanian) with a step-by-step tutorial.
+
+## 📊 GitHub snapshot
+
+This is a **new public account**. The projects themselves were built over time; they are published here with full source, screenshots and tutorials.
+
+| | |
+|---|---|
+| Public repositories | **9** on [github.com/LucianCeusanRo](https://github.com/LucianCeusanRo) |
+| Languages in this account | Python, JavaScript, HTML/CSS, Cisco IOS |
+| Focus | Network operations, telecom exam prep, study tools, small automations |
+| Portfolio | [lucian-ceusan.vercel.app](https://lucian-ceusan.vercel.app) |
+| LinkedIn | [lucian-ceusan](https://www.linkedin.com/in/lucian-ceusan-7a9179210) |
+
 
 ## 🇷🇴 Română
 
